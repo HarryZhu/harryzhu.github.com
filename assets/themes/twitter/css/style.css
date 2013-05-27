@@ -1,3 +1,6 @@
+body{
+	background:#f9f9f9;
+}
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
@@ -17,6 +20,7 @@
 .post > h3.title span.date {
   position: absolute;
   right: 0;
+  color: #777;
   font-size: 0.9em; }
 
 .post > .more {
@@ -27,6 +31,31 @@
 .post-full .date {
   margin-bottom: 20px;
   font-weight: bold; }
+
+.post .t-border{
+    border-bottom: 5px solid #111;
+	margin:2px 0;
+	box-shadow: 1px 1px 1px rgba(128,128,128,0.7);
+	}
+.post h1{
+	margin:0;
+}	
+.post h1 a{
+  	color:#333;
+	font: 70px;
+	text-shadow: -2px 3px 2px rgba(200,200,200,0.7);
+  }
+  
+  
+.post .t-meta{
+    color:#888 !important;
+  	font-size: 13px;
+	font-family:"Courier";
+    }
+	
+.post .content{
+	font-size: 1em;
+}	
 
 /* tag_box */
 .tag_box {
