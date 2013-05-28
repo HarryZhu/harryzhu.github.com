@@ -1,6 +1,5 @@
 body{
 	background:#f9f9f9;
-	font-family: "Droid Sans";
 }
 /* Custom container */
 .container-narrow {
@@ -34,11 +33,20 @@ body{
   font-weight: bold; }
 
 .t-meta {
-color: #a9a9a9;
+color: #898989;
+}
+
+.t-slug {
+color: #898989;
 }
 
 .index-list hr{
 margin: 10px 0;
+}
+
+.index-list a{
+color: #333;
+font-size:1.2em;
 }
 
 
