@@ -1,5 +1,5 @@
 ---
-layout: post-translation
+layout: post
 title: "超快的Node.js: 源自于LinkedIn Mobile的10个性能提升小锦囊"
 tagline: "Blazing fast node.js: 10 performance tips from LinkedIn Mobile"
 date: 2013-05-26
@@ -18,3 +18,4 @@ tags: [NodeJS]
 
 <script src="https://gist.github.com/HarryZhu/5664356.js"></script>
 
+asdjfhlk
