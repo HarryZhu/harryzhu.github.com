@@ -16,8 +16,8 @@ tags: [NodeJS]
  * 译文: [jobbole](http://blog.jobbole.com/40135/)
  * 原文: [LinkedIn](http://engineering.linkedin.com/nodejs/blazing-fast-nodejs-10-performance-tips-linkedin-mobile)
 
-
+![Archive]({{ site.STATIC_ROOT }}/images/2013/Blazing-fast-node-js-10-performance-tips-from-LinkedIn-Mobile-LinkedIn-Engineering.png)
 
 <script src="https://gist.github.com/HarryZhu/5664356.js"></script>
 
-<img src="{{ site.STATIC_ROOT }}/images/2013/Blazing-fast-node-js-10-performance-tips-from-LinkedIn-Mobile-LinkedIn-Engineering.png" />
+
