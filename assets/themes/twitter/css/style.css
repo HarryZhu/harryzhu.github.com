@@ -1,6 +1,7 @@
-body{
+html,body{
 	background:#f9f9f9;
 }
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
@@ -45,7 +46,6 @@ margin: 10px 0;
 }
 
 .index-list a{
-color: #333;
 font-size:1.2em;
 }
 
