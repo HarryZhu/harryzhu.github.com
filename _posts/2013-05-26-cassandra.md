@@ -1,9 +1,0 @@
----
-layout: post
-title: "Cassandra"
-date: 2012-05-21
-description: ""
-category: 
-tags: []
----
-{% include JB/setup %}
